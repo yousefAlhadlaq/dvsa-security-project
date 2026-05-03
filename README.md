@@ -3,6 +3,7 @@
 > **Course:** ICS-344 — Information Security | Section 1  
 > **Institution:** King Fahd University of Petroleum and Minerals  
 > **Term:** 252 — Spring 2026
+> **Team Number:** 29
 
 ---
 
@@ -22,7 +23,7 @@
 | ---------------- | ------------------------------------------------------------------------------ |
 | DVSA Website URL | http://dvsa-website-786427517680-us-east-1.s3-website.us-east-1.amazonaws.com/ |
 | AWS Region       | us-east-1                                                                      |
-| Submission Date  | 26 April 2026                                                                  |
+| Submission Date  | 3 May 2026                                                                  |
 
 ---
 
@@ -73,7 +74,7 @@ dvsa-security-project/
         └── screenshots/             # Evidence screenshots for each phase
 ```
 
-Each `vulnerabilities/lesson-XX/README.md` follows the 10-section project template:
+Each `vulnerabilities` follows the 10-section project template:
 
 1. Goal and Vulnerability Summary
 2. Why This Works / Root Cause
